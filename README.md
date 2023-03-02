@@ -5,4 +5,4 @@ Hi, -:}
 # conTact
 -/-TELEGRAM = @h4rdrez
 
--/-TELEGRAM CHANNEL = @hackers_assemble
+-/-KEYBASE = @h4rdrez
