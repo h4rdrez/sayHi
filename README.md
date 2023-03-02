@@ -2,6 +2,6 @@
 
 Hi, -:}
 
-#conTact
+# conTact
 -/-TELEGRAM = @h4rdrez
 -/-TELEGRAM CHANNEL = @hackers_assemble
